@@ -1,7 +1,6 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=150&section=header)
 
-- [mill5 profile]([https://github.com/onealog](https://github.com/mill-5))
 
 <img src="https://img.shields.io/badge/mill5-ffca28?style=flat-square&logo=4chan&logoColor=fffff"/>
 
