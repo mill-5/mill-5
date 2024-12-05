@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hello&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#FEB7B7&height=120&section=header&text=Hello&fontSize=70)
 
 - [mill5 profile]([https://github.com/onealog](https://github.com/mill-5))
 
@@ -16,4 +16,4 @@
 <img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#FEB7B7&height=200&section=footer)
