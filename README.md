@@ -16,4 +16,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=170&section=footer)
