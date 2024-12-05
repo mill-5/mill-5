@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=120&section=header&text=Hello&fontSize=70&fontcolor=00000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=120&section=header&text=Hello&fontSize=70&fontcolor=ffffff)
 
 - [mill5 profile]([https://github.com/onealog](https://github.com/mill-5))
 
