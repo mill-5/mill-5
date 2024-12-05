@@ -14,3 +14,4 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sympathy0513)](https://solved.ac/sympathy0513)
 
  <img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
