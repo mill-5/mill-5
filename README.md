@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=120&section=header&text=Hello&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=120&section=header&text=Hello&fontSize=70&fontcolor=00000)
 
 - [mill5 profile]([https://github.com/onealog](https://github.com/mill-5))
 
@@ -13,7 +13,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sympathy0513)](https://solved.ac/sympathy0513)
 
  <img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
-<img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FEB7B7&height=200&section=footer)
