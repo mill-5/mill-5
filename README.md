@@ -24,6 +24,7 @@
 
  <img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
 
+### [강환수 교수님 깃주소] https://github.com/ai7dnn
         
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffccf1,100:fff894&height=120&section=footer)
        </div> 
