@@ -19,10 +19,7 @@
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmill-5%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sympathy0513)](https://solved.ac/sympathy0513)
 
- <img src="http://mazandi.herokuapp.com/api?handle={sympathy0513}&theme=warm"/>
 
 ##### [강환수 교수님 깃주소] https://github.com/ai7dnn
         
