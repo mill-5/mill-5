@@ -19,6 +19,7 @@
 
 
 ##### [강환수 교수님 깃주소] https://github.com/ai7dnn
+##### [나의 노션] https://www.notion.so/39b96dcb14e040de80d962a68f6318fa                                
         
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffccf1,100:fff894&height=120&section=footer)
        </div> 
